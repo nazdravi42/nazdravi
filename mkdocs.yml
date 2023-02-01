@@ -1,0 +1,5 @@
+site_name: nazdravi
+
+nav:
+  - books:
+    - 01: books/booktest.md  
